@@ -128,4 +128,4 @@ Once the application is running, explore the interactive API documentation via S
 - **Drivers**: `/drivers/acceptRide`, `/drivers/startRide`, `/drivers/endRide`
 
 ---
-*Developed by [Aryan Kumar]*
+*Developed by [Aryan]*
